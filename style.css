@@ -1,0 +1,51 @@
+.judul{
+    font-size: 500%;
+    font-weight: 10%;
+    color: rgb(255, 0, 0);
+}
+
+.judul2{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol li{
+    list-style: lower-alpha;
+}
+
+img{
+    width: 50%;
+    border-radius: 25px;
+}
+
+.list{
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    padding: 20px 40px;
+    margin: 40px;
+}
+
+.listnama{
+    width: 50%;
+    height: 50%;
+    background-color: aquamarine;
+}
+
+.tabel, td, th, tr{
+    border: 1px solid black;
+}
+
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    padding-left: 40px;
+    margin: 40px;
+}
+
+.container .kotak{
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+}
